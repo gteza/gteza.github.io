@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Gianluca Teza"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # Gianluca Teza
 
 I am a theoretical physicist working on nonequilibrium statistical mechanics, stochastic thermodynamics, complex systems, and quantum many-body dynamics.
