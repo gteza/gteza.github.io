@@ -27,14 +27,14 @@ author:
   name             : "Gianluca Teza"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor (Tenure-Track) of Theoretical Physics"
-  location         : "Trieste"
+  location         : "Trieste, Italy"
   employer         : "University of Trieste"
   uri              : # URL
   email            : "gianluca.teza@units.it" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cond-mat?searchtype=author&query=Teza,+Gianluca"
   googlescholar    : "https://scholar.google.com/citations?user=LLFZV2cAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Gianluca-Teza"
   scopus           : # URL
   zotero           : # URL
 
