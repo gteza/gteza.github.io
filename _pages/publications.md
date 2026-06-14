@@ -9,7 +9,7 @@ An up-to-date list of my publications and preprints can be found on my [Google S
 
 ## Selected publications
 
-* **Gianluca Teza**, Francesco Campaioli, Marco Avesani, and Oren Raz, “[Finite-temperature criticality through quantum annealing](https://arxiv.org/abs/2507.07167),” to appear *Nature Communications* [arXiv:2507.07167] (2025).
+* **Gianluca Teza**, Francesco Campaioli, Marco Avesani, and Oren Raz, “[Finite-temperature criticality through quantum annealing](https://arxiv.org/abs/2507.07167),” to appear in *Nature Communications* [arXiv:2507.07167] (2026).
 
 * Nicolò Beato and **Gianluca Teza**, “[Relaxation Control of Open Quantum Systems](https://doi.org/10.1103/4frd-ck2z),” *Physical Review Letters* **136**, 070401 (2026).
 
@@ -33,4 +33,3 @@ An up-to-date list of my publications and preprints can be found on my [Google S
 
 * **Gianluca Teza**, Michele Caraglio, and Attilio L. Stella, “[Growth dynamics and complexity of national economies in the global trade network](https://doi.org/10.1038/s41598-018-33659-6),” *Scientific Reports* **8**, 15230 (2018).
 
-* **Gianluca Teza**, Michele Caraglio, and Attilio L. Stella, “[Data Driven Approach to the Dynamics of Import and Export of G7 Countries](https://doi.org/10.3390/e20100735),” *Entropy* **20**, 735 (2018).
