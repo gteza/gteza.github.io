@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
 ### University courses
 
 * **Quantitative Methods for Finance**
@@ -28,7 +26,7 @@ author_profile: true
 * **Statistical Physics 1**
   Master course, Weizmann Institute of Science, Israel.
   Academic year 2023--2024.
-  Mandatory course for all physics master students at the Weizmann Institute. Postponed due to the state of war.
+  [Postponed due to the war]
 
 * **Renormalization Group in Statistical Mechanics**
   Ph.D. course, Department of Physics and Astronomy, University of Padova, Italy.
@@ -38,4 +36,8 @@ author_profile: true
 
 * **From Quantum Matter to Quantum Computers**
   Lecturer at the School for MSc students, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany.
+  2026.
+  
+* **Nonequilibrium Quantum Matter**
+  Lecturer at the School for PhD and MSc students, Eberhard Karls Universität Tübingen, Tübingen, Germany.
   2026.
